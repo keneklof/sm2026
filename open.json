@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "Open",
+          "name": "SM2026-avoin",
+          "short": "Avoin",
+          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-2026/results/open",
+          "color": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/sm2026/refs/heads/main/glidersOpen"
+}
