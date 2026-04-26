@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "Racing",
+          "name": "SM2026-racing",
+          "short": "Racing",
+          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-2026/results/racing",
+          "color": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/sm2026/refs/heads/main/glidersRacing"
+}
