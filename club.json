@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "Club",
+          "name": "SM2026-kerholuokka",
+          "short": "Kerholuokka",
+          "task": "https://www.soaringspot.com/en_gb/sm2026/results/club",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/sm2026/refs/heads/main/glidersClub"
+}
