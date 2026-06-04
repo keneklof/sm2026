@@ -3,5 +3,6 @@
 {"name":"Mikko Nurminen [Räyskälän Ilmailukerho]","cn":"AL","glider":"Ventus-2cxa FES","comp":"Open","flarm":["DDDF21"]},
 {"name":"Antti Lehto [Räyskälän Ilmailukerho]","cn":"AM","glider":"Arcus M","comp":"Open","flarm":["D02159"]},
 {"name":"Sami Rissanen [Räyskälän Ilmailukerho]","cn":"EX","glider":"EB 28 Edition","comp":"Open","flarm":["D029CB"]},
-{"name":"Nuutti Kankare [Cumulus]","cn":"3F","glider":"Ventus-3F","comp":"Open","flarm":["D01CE6"]}
+{"name":"Nuutti Kankare [Cumulus ry]","cn":"3F","glider":"Ventus-3F","comp":"Open","flarm":["D01CE6"]},
+{"name":"Tero Koivunen [Cumulus ry]","cn":"LK","glider":"LS8-18m","comp":"Open","flarm":["465BAE"]}
 ]
